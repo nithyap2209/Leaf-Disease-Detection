@@ -61,7 +61,7 @@
        streamlit run app.py
 ## Deployment
 * Platform: Deployed on Streamlit Sharing, Heroku, or AWS.
-* Application Link: https://leaf-disease-detection-e9wlnyuqyff6ezzvmlxyhf.streamlit.app/
+* Application Link: [https://leaf-disease-detection-e9wlnyuqyff6ezzvmlxyhf.streamlit.app/](https://leaf-disease-detection-e9wlnyuqyff6ezzvmlxyhf.streamlit.app/)
 ## Documentation
 * Preprocessing: preprocessing.py - Details the data cleaning and augmentation process.
 * Model Training: train_model.py - Describes the model architecture, training process, and hyperparameter tuning.
