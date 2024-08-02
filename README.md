@@ -61,7 +61,7 @@
        streamlit run app.py
 ## Deployment
 * Platform: Deployed on Streamlit Sharing, Heroku, or AWS.
-* Application Link: Deployed Application
+* Application Link: https://leaf-disease-detection-e9wlnyuqyff6ezzvmlxyhf.streamlit.app/
 ## Documentation
 * Preprocessing: preprocessing.py - Details the data cleaning and augmentation process.
 * Model Training: train_model.py - Describes the model architecture, training process, and hyperparameter tuning.
@@ -92,6 +92,12 @@
 6. Start the Streamlit App:
 
        streamlit run app.py
+7. Deployment
+
+The project is deployed and accessible through the following link:
+
+[**Project Deployment**](https://leaf-disease-detection-e9wlnyuqyff6ezzvmlxyhf.streamlit.app/)
+   
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
